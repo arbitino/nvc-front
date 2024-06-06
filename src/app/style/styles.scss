@@ -1,0 +1,9 @@
+html.dark {
+    body {
+        background: #111827;
+    }
+}
+
+*:not(.datepicker-picker) {
+    transition: 0.3s ease;
+}
